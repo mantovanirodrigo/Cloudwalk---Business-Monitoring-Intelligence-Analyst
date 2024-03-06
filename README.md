@@ -13,4 +13,5 @@ In this repository, you will find my approach to the Cloudwalk Case for Business
 - main_IF.py: main file used to train the Isolation Forest and detect anomalies in train dataset (3.2.);
 - models.py: definition of isolation forest model and auxiliary functions (3.2.);
 - project_utils.py: auxiliary file containing functions used in the project (3.2.)
+- Cloudwalk Case Presentation.pdf: contains the presentation.
   
